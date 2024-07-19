@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaugest"]=self["webpackChunkaugest"]||[]).push([[658],{14658:function(l,n,u){u.r(n),u.d(n,{default:function(){return i}});var t=u(19812),e=(0,t._)("html",null,[(0,t._)("head"),(0,t._)("body",null,[(0,t._)("h3",null,"将rect转为path"),(0,t._)("ol",null,[(0,t._)("li",null,"第一步找到边框路径"),(0,t._)("li",null,"基于path路径方向右侧为填充区域，来绘制path")])])],-1),a=[e];function r(l,n){return(0,t.wg)(),(0,t.iD)("section",null,a)}var c=u(48998);const h={},s=(0,c.Z)(h,[["render",r]]);var i=s}}]);
+//# sourceMappingURL=658-legacy.76bbd95e.js.map
